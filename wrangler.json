@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "patient-sunset-f1a0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b69bf638-4060-4651-8f01-4fde9090b00e",
+      "database_name": "purple-river-c5b1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
